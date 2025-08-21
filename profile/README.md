@@ -4,13 +4,13 @@
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 - 🌱 I’m currently learning **Spring Web Services and DevOps**
-- 🎨 I have experience in **Backend Development** with **Java, Spring Framework, Hibernate, SQL**
+- 🎨 I have experience in **Backend Development** with **Java, Microservices, Spring Framework, Hibernate, SQL**
 - 🔐 Skilled in **Java Development** and familiar with various **frameworks**
 - 📚 Check out my projects on **[Project & work ](https://github.com/ParasJain12?tab=repositories)**
-- 💻 Currently **WebKorps Services (Associate Software Engineer)**
+- 💻 Currently **WebKorps Services India Pvt. Ltd. (Associate Software Engineer)**
 - 👤 Previously interned at **HotWax Systems (Software Developer)**
 - 💻 Check out my achievements on **[GeeksforGeeks ](https://www.geeksforgeeks.org/user/parasjain8103/)** and **[HackerRank ](https://www.hackerrank.com/profile/parasjain8103)**
-- 💬 Ask me about **C++, DSA, Java, Spring Framework, Hibernate, REST APIs, SQL, Git, Apache Solr, Apache OFBiz**
+- 💬 Ask me about **Java, Microservices, Spring Framework, Hibernate, REST APIs, JUnit, Docker, SQL, Git, Apache Solr, C++, DSA**
 - 📧 Reach me at **parasjain8103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -31,6 +31,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/docker.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Software/postman.svg" alt="Postman" width="40" height="40"/>
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
