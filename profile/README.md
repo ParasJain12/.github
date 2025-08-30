@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
-- 🌱 I’m currently learning **Spring Web Services and DevOps**
+- 🌱 I’m currently learning **DevOps Fundamentals - Docker containerization, Kubernates, CI/CD Pipeline using Jenkins**
 - 🎨 I have experience in **Backend Development** with **Java, Microservices, Spring Framework, Hibernate, SQL**
 - 🔐 Skilled in **Java Development** and familiar with various **frameworks**
 - 📚 Check out my projects on **[Project & work ](https://github.com/ParasJain12?tab=repositories)**
