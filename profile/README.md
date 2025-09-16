@@ -11,7 +11,7 @@
 - 💻 Currently **WebKorps Services India Pvt. Ltd. (Associate Software Engineer)**
 - 👤 Previously interned at **HotWax Systems (Software Developer)**
 - 💻 Check out my achievements on **[GeeksforGeeks ](https://www.geeksforgeeks.org/user/parasjain8103/)** and **[HackerRank ](https://www.hackerrank.com/profile/parasjain8103)**
-- 💬 Ask me about **Java, Microservices, Spring Framework, Hibernate, REST APIs, JUnit, Docker, SQL, Git, Apache Solr, C++, DSA**
+- 💬 Ask me about **Java, Microservices, Spring Framework, Hibernate, REST APIs, JUnit, Docker, Jenkins, Kubernetes SQL, Git, Apache Solr, C++, DSA**
 - 📧 Reach me at **parasjain8103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -33,6 +33,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="Linux" width="40" height="40"/>
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/docker.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/jenkins.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Software/postman.svg" alt="Postman" width="40" height="40"/>
 </p>
 
