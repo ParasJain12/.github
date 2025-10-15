@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paras Jain</h1>
-<h3 align="center">A passionate Java Software Development Engineer </h3>
+<h3 align="center"> Passionate Software Development Engineer </h3>
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
