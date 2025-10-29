@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Paras Jain</h1>
 <h3 align="center">Passionate Software Development Engineer</h3>
 
-<p align="center">
+<p>
   <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" alt="coding animation" />
 </p>
 
@@ -56,10 +56,5 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ParasJain12" alt="GitHub Streak" /></p>
 
 ---
-
-<h3 align="center">📊 Contribution & Activity</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParasJain12&radius=12" alt="Activity Graph"/>
-</p>
 
 <p align="center">✨ Thanks for visiting! Feel free to connect and collaborate 🤝</p>
