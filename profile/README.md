@@ -3,33 +3,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=23&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Java+%7C+Spring+Boot+%7C+DevOps+Enthusiast;Always+learning+new+things+🚀" />
 </p>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-  <!-- LEFT SIDE TEXT -->
-  <div style="text-align: left; max-width: 480px;">
-    <h1>Hi 👋, I'm Paras Jain</h1>
-    <h3>Passionate Software Development Engineer</h3>
+<table>
+  <tr>
+    <td width="60%">
+      <h1>Hi 👋, I'm Paras Jain</h1>
+      <h3>Passionate Software Development Engineer</h3>
 
-    <ul>
-      <li>🚀 Currently learning <b>DevOps Fundamentals (AWS, Jenkins, IaC)</b></li>
-      <li>💻 Backend Developer skilled in <b>Java, Microservices, Spring Boot, Hibernate, SQL</b></li>
-      <li>🛠️ Hands-on with <b>Docker, Jenkins, Kubernetes & Linux</b></li>
-      <li>📂 Explore my work → <a href="https://github.com/ParasJain12?tab=repositories"><b>Projects</b></a></li>
-      <li>🏢 Associate Software Engineer at <b>WebKorps Services India Pvt. Ltd.</b></li>
-      <li>🎯 Ex-Software Developer Intern at <b>HotWax Systems</b></li>
-      <li>🏆 Active contributor on <a href="https://www.geeksforgeeks.org/user/parasjain8103/"><b>GeeksforGeeks</b></a> & <a href="https://www.hackerrank.com/profile/parasjain8103"><b>HackerRank</b></a></li>
-      <li>💬 Ask me about <b>Java, APIs, Microservices, DevOps, DSA, Cloud Fundamentals</b></li>
-      <li>📧 Reach me at <b>parasjain8103@gmail.com</b></li>
-    </ul>
-  </div>
-
-  <!-- RIGHT SIDE GIF -->
-  <div>
-    <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="310px" alt="coding animation">
-  </div>
-</div>
-
-<hr>
-
+      - 🚀 Currently learning <b>DevOps Fundamentals (AWS, Jenkins, IaC)</b><br>
+      - 💻 Backend Developer skilled in <b>Java, Microservices, Spring Boot, Hibernate, SQL</b><br>
+      - 🛠️ Hands-on with <b>Docker, Jenkins, Kubernetes & Linux</b><br>
+      - 📂 Explore my work → <a href="https://github.com/ParasJain12?tab=repositories"><b>Projects</b></a><br>
+      - 🏢 Associate Software Engineer at <b>WebKorps Services India Pvt. Ltd.</b><br>
+      - 🎯 Ex-Software Developer Intern at <b>HotWax Systems</b><br>
+      - 🏆 Active contributor on <a href="https://www.geeksforgeeks.org/user/parasjain8103/"><b>GeeksforGeeks</b></a> & <a href="https://www.hackerrank.com/profile/parasjain8103"><b>HackerRank</b></a><br>
+      - 💬 Ask me about <b>Java, APIs, Microservices, DevOps, DSA, Cloud Fundamentals</b><br>
+      - 📧 Reach me at <b>parasjain8103@gmail.com</b><br>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" alt="coding animation">
+    </td>
+  </tr>
+</table>
 
 ---
 
