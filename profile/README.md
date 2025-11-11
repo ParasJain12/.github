@@ -5,15 +5,15 @@
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
-- 🌱 I’m currently learning **DevOps Fundamentals - AWS, Jenkins & IaC**
-- 🎨 I have experience in **Backend Development** with **Java, Microservices, Spring Framework, Hibernate, SQL**
+- 🌱 I’m currently learning **DevOps Fundamentals - AWS & IaC**
+- 🎨 I have experience in **Backend Development** with **Java, Microservices, Spring Framework, Hibernate, REST APIs & SQL**
 - 🔐 Skilled in **Java Development** and familiar with various **frameworks**
-- 🔐 Skilled in **DevOps Fundamentals** like **Docker, Jenkins, & Kubernetes**
+- 🔐 Skilled in **DevOps Fundamentals** like **Docker, Jenkins, Kubernetes, Ansible and Terraform**
 - 📚 Check out my projects on **[Project & work ](https://github.com/ParasJain12?tab=repositories)**
 - 💻 Currently **WebKorps Services India Pvt. Ltd. (Associate Software Engineer)**
 - 👤 Previously interned at **HotWax Systems (Software Developer)**
 - 💻 Check out my achievements on **[GeeksforGeeks ](https://www.geeksforgeeks.org/user/parasjain8103/)** and **[HackerRank ](https://www.hackerrank.com/profile/parasjain8103)**
-- 💬 Ask me about **Java, Microservices, Spring Framework, Hibernate, REST APIs, JUnit, Docker, Jenkins, Kubernetes SQL, Git, Apache Solr, C++, DSA**
+- 💬 Ask me about **Java, Microservices, Spring Framework, Hibernate, REST APIs, JUnit, Docker, Jenkins, Kubernetes, Ansible, Terraform SQL, Git, Apache Solr, C++, DSA**
 - 📧 Reach me at **parasjain8103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
