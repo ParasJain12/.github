@@ -1,4 +1,6 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=23&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Java+%7C+DevOps+Enthusiast;Exploring+FinTech+%7C+Payments+%7C+Banking+Domain+🏦💳;Always+learning+new+things+🚀" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Software+Development+Engineer;%E2%98%95+Java+%7C+DevOps+Enthusiast;%F0%9F%93%88+Exploring+FinTech+%7C+Payments+%7C+Banking+Domain;%F0%9F%9A%80+Always+learning+new+things" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Paras Jain</h1>
 <h3 align="center"> Passionate Software Development Engineer </h3>
