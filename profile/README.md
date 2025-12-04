@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
-- 🌱 I’m currently learning **DevOps Fundamentals - AWS & IaC**
+- 🌱 I’m currently exploring **Payment and Banking Domain** 💳💸
 - 🎨 I have experience in **Backend Development** with **Java, Microservices, Spring Framework, Hibernate, REST APIs & SQL**
 - 🔐 Skilled in **Java Development** and familiar with various **frameworks**
 - 🔐 Skilled in **DevOps Fundamentals** like **Docker, Jenkins, Kubernetes, Ansible and Terraform**
