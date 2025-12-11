@@ -44,6 +44,16 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ParasJain12&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ParasJain12&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ParasJain12&%22%20alt=%22GitHub%20Streak" /></p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParasJain12&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ParasJain12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParasJain12&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
