@@ -15,6 +15,7 @@
 - 📚 Check out my projects on **[Project & work ](https://github.com/ParasJain12?tab=repositories)**
 - 💻 Currently **WebKorps Services India Pvt. Ltd. (Associate Software Engineer)**
 - 👤 Previously interned at **HotWax Systems (Software Developer)**
+- ✍️ I write about **banking, payments, and financial systems** — **[Medium ](https://medium.com/@TheQuietLedger)**
 - 💻 Check out my achievements on **[GeeksforGeeks ](https://www.geeksforgeeks.org/user/parasjain8103/)** and **[HackerRank ](https://www.hackerrank.com/profile/parasjain8103)**
 - 💬 Ask me about **Java, Microservices, Spring Framework, Hibernate, REST APIs, JUnit, Docker, Jenkins, Kubernetes, Ansible, Terraform SQL, Git, Apache Solr, C++, DSA**
 - 📧 Reach me at **parasjain8103@gmail.com**
