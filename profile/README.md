@@ -43,17 +43,20 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Software/postman.svg" alt="Postman" width="40" height="40"/>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+### 🚀 GitHub Stats & Languages
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParasJain12&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParasJain12&theme=tokyonight" height="180" />
+  
+  <!-- Languages by Repositories -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ParasJain12&theme=tokyonight" height="180" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ParasJain12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p align="center">
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParasJain12&theme=tokyonight" height="180" />
+  
+  <!-- Profile Summary Graph -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParasJain12&theme=tokyonight" height="180" />
 </p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParasJain12&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
