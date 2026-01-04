@@ -11,13 +11,13 @@
 - 🌱 I’m currently exploring **Payment and Banking Domain** 💳💸
 - 🎨 I have experience in **Backend Development** with **Java, Microservices, Spring Framework, Hibernate, REST APIs & SQL**
 - 🔐 Skilled in **Java Development** and familiar with various **frameworks**
-- 🔐 Skilled in **DevOps Fundamentals** like **Docker, Jenkins, Kubernetes, Ansible and Terraform**
+- 🔐 Skilled in **DevOps Fundamentals** like **Microsoft Azure, Docker, Jenkins, Kubernetes, Ansible and Terraform**
 - 📚 Check out my projects on **[Project & work ](https://github.com/ParasJain12?tab=repositories)**
 - 💻 Currently **WebKorps Services India Pvt. Ltd. (Associate Software Engineer)**
 - 👤 Previously interned at **HotWax Systems (Software Developer)**
 - ✍️ I write about **banking, payments, and financial systems** — **[Medium ](https://medium.com/@TheQuietLedger)**
 - 💻 Check out my achievements on **[GeeksforGeeks ](https://www.geeksforgeeks.org/user/parasjain8103/)** and **[HackerRank ](https://www.hackerrank.com/profile/parasjain8103)**
-- 💬 Ask me about **Java, Microservices, Spring Framework, Hibernate, REST APIs, JUnit, Docker, Jenkins, Kubernetes, Ansible, Terraform SQL, Git, Apache Solr, C++, DSA**
+- 💬 Ask me about **Java, Microservices, Spring Framework, Hibernate, REST APIs, JUnit, Azure, Docker, Jenkins, Kubernetes, Ansible, Terraform SQL, Git, Apache Solr, C++, DSA**
 - 📧 Reach me at **parasjain8103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -41,6 +41,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Other/linux.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Devops/docker.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Devops/jenkins.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Devops/azure.svg" alt="Azure" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Devops/kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Software/postman.svg" alt="Postman" width="40" height="40"/>
 </p>
