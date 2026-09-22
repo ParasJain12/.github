@@ -3,20 +3,23 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Paras Jain</h1>
-<h3 align="center"> Passionate Software Development Engineer </h3>
+<h1 align="center">Hi👋, I'm Paras Jain</h1>
+<h3 align="center">♾️Engineering the Invisible🌌</h3>
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
-- 🌱 I’m currently exploring **Payment and Banking Domain** 💳💸
+- 🌱 I’m currently exploring **📦Logistics & Supply Chain** 
 - 🎨 I have experience in **Backend Development** with **Java, Microservices, Spring Framework, Hibernate, REST APIs & SQL**
-- 🔐 Skilled in **Java Development** and familiar with various **frameworks**
-- 🔐 Skilled in **DevOps Fundamentals** like **Microsoft Azure, Docker, Jenkins, Kubernetes, Ansible and Terraform**
+- 🔐 Skilled in **DevOps** like **Microsoft Azure, AWS, Docker, Jenkins, Kubernetes, GitHub Actions and Terraform**
 - 📚 Check out my projects on **[Project & work ](https://github.com/ParasJain12?tab=repositories)**
-- 👤 Previously worked at **WebKorps Services India Pvt. Ltd. (Associate Software Engineer)** and **HotWax Systems (Software Developer Intern)**
-- ✍️ I write about **banking, payments, and financial systems** — **[Medium ](https://medium.com/@TheQuietLedger)**
+- 🏢 Previously worked at **WebKorps Services India Pvt. Ltd. (Associate Software Engineer)** and **HotWax Systems (Software Developer Intern)**
+- ✍️ I write about **banking, payments, financial systems and logistics** — **[Medium ](https://medium.com/@TheQuietLedger)**
 - 💻 Check out my achievements on **[GeeksforGeeks ](https://www.geeksforgeeks.org/user/parasjain8103/)** and **[HackerRank ](https://www.hackerrank.com/profile/parasjain8103)**
-- 💬 Ask me about **Java, Microservices, Spring Framework, Hibernate, REST APIs, JUnit, Azure, Docker, Jenkins, Kubernetes, Ansible, Terraform SQL, Git, Apache Solr, C++, DSA**
+- 🏆 Certifications & Learning
+  - ☁️ **Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)**
+  - ☁️ **Microsoft Certified: Azure Administrator Associate (AZ-104)**
+  - 🤖 **Google Certified: Gemini Enterprise Deployment**
+- 💬 Ask me about **Java, Microservices, Spring Framework, Hibernate, REST APIs, JUnit, Azure, AWS, Docker, Jenkins, Kubernetes, Ansible, Terraform, GitHub Actions, SQL, Git**
 - 📧 Reach me at **parasjain8103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
